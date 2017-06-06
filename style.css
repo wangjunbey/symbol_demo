@@ -5,6 +5,6 @@ h2{
 body{
 	margin:0;
 	padding:0;
-	background:url('./b.jpg') no-repeat 0 0;
-	background-size:100% 100%;
+	background:url('./b.jpg') no-repeat center 0;
+	background-size:cover;
 }
